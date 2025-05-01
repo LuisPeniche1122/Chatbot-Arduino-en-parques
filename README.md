@@ -23,3 +23,31 @@ venv\Scripts\activate     # En Windows
 ```bash
 pip install -r requirements.txt
 ```
+
+### 🔐 Configuración de claves
+
+Para que la aplicación funcione correctamente, es necesario crear una carpeta de configuración y un archivo con tus credenciales.
+
+#### 1. Crea una carpeta llamada `.streamlit` en la raíz del proyecto:
+
+```bash
+mkdir .streamlit
+```
+
+#### 2. Dentro de esa carpeta, crea un archivo llamado secrets.toml:
+```bash
+secrets.toml
+```
+
+#### 3. Abre el archivo secrets.toml y pega el siguiente contenido, reemplazando con tus datos personales:
+```bash
+[ADMIN_PAGE]
+user = "Tu Usuario"
+password = "Tu Contraseña"
+
+[API_KEY]
+GOOGLE_API_KEY = "Tu API KEY de Google"
+OPENAI_API_KEY = "Tu API KEY de GPT"
+```
+> 💡 **¡Importante!**  
+> Este archivo es utilizado por Streamlit para manejar configuraciones sensibles como usuarios administradores y claves de API. Asegúrate de **no compartirlo públicamente**.
