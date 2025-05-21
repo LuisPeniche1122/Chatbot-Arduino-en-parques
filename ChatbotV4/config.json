@@ -1,0 +1,10 @@
+{
+    "background_color": "#1004ea",
+    "text_color": "#8a9401",
+    "sidebar_bg_color": "#776363",
+    "sidebar_text_color": "#ef0707",
+    "model_choice": "Google",
+    "user_page_title": "Soporte: Arduino en parques Demo",
+    "initial_message": "Bienvenido, soy tu asistente automatizado para responder a tus preguntas sobre este curso",
+    "input_placeholder": "Hazme una pregunta"
+}
