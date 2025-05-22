@@ -1,0 +1,42 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://156.67.221.86:8502
+  External URL: http://156.67.221.86:8502
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503
+  Network URL: http://156.67.221.86:8503
+  External URL: http://156.67.221.86:8503
+
+/home/arduinoenparques/homes/mgltchm/Luis/venv/ChatbotV3/utils.py:8: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  return ConversationBufferMemory(
+/home/arduinoenparques/homes/mgltchm/Luis/venv/ChatbotV3/utils.py:8: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  return ConversationBufferMemory(
+Add of existing embedding ID: Temario2021.pdf_1
+Add of existing embedding ID: Temario2021.pdf_2
+Add of existing embedding ID: Temario2021.pdf_3
+Add of existing embedding ID: Temario2021.pdf_1
+Add of existing embedding ID: Temario2021.pdf_2
+Add of existing embedding ID: Temario2021.pdf_3
+Add of existing embedding ID: Temario2021.pdf_1
+Add of existing embedding ID: Temario2021.pdf_2
+Add of existing embedding ID: Temario2021.pdf_3
+Add of existing embedding ID: Temario2021.pdf_1
+Add of existing embedding ID: Temario2021.pdf_2
+Add of existing embedding ID: Temario2021.pdf_3
+Add of existing embedding ID: Temario2021.pdf_1
+Add of existing embedding ID: Temario2021.pdf_2
+Add of existing embedding ID: Temario2021.pdf_3
+Add of existing embedding ID: Temario2021.pdf_1
+Add of existing embedding ID: Temario2021.pdf_2
+Add of existing embedding ID: Temario2021.pdf_3

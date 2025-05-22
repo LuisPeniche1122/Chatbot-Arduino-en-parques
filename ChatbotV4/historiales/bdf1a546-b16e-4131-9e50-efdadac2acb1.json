@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": 1745106446.9504635,
+        "usuario": "Hola, cómo puedes ayudarme?",
+        "bot": "Soy un asistente de IA y puedo ayudarte respondiendo preguntas basadas en el documento que me proporcionaste sobre el temario de un examen.  Dime qué te gustaría saber.\n"
+    },
+    {
+        "timestamp": 1745106961.117201,
+        "usuario": "que temas tiene el temario?",
+        "bot": "El temario incluye los siguientes temas:\n\n**Matemáticas:**\n* Álgebra lineal\n* Cálculo diferencial\n* Cálculo integral\n* Ecuaciones diferenciales\n* Conjuntos y relaciones\n* Estadística, variables aleatorias\n* Probabilidad\n\n**Algoritmos:**\n* Notación asintótica (O, omega, Theta)\n* Estructuras de datos (arreglos, listas, pilas, colas, árboles)\n* Complejidad asintótica de funciones\n* Algoritmos de ordenamiento\n* Árboles de búsqueda\n* Gráficas/Grafos y árboles\n\n**Arquitectura de Computadoras:**\n* Representación de números (binario, octal, hexadecimal, complemento a dos)\n* Notación de punto fijo y punto flotante\n* Operaciones lógicas (and, or, nand, nor, xor, etc.)\n* Operaciones aritméticas con números binarios (sumas, restas, multiplicaciones)\n* Reducción de ecuaciones booleanas\n* Circuitos digitales secuenciales (Flip-Flops)\n* Manejo de memorias (RAM, ROM, etc.)\n* Componentes de arquitectura CISC y RISC\n\n**Lenguajes de Programación, Bases de datos y estructuras de datos:**\n* Algoritmos en pseudocódigo y análisis\n* Programación Modular\n* Alcance estático y dinámico\n* Paso de parámetros y comparación de métodos\n* Variables globales y locales\n* Arreglos y ordenamiento\n* Análisis de llamadas a funciones\n* Conceptos de POO (Clases y objetos, sobrecarga, sobreescritura, encapsulamiento, herencia)\n* Java Básico\n\n**Autómatas y lenguajes formales:**\n* Autómatas finitos\n* Lenguajes regulares\n* Gramáticas libres de contexto\n* Autómatas de pila\n* Máquinas de Turing\n"
+    }
+]
