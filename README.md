@@ -1,4 +1,4 @@
-# 🤖 ChatbotV3
+# 🤖 ChatbotV4.5
 ChatbotV3 es una aplicación desarrollada en Python que permite la interacción entre usuarios y un asistente conversacional inteligente, con interfaces diferenciadas para usuarios y administradores. Utiliza Streamlit para crear interfaces web simples y rápidas, y Langchain para gestionar flujos conversacionales complejos e integrar modelos de lenguaje avanzados.
 
 ### ⚙️ Instalación
