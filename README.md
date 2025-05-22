@@ -5,7 +5,7 @@ ChatbotV3 es una aplicación desarrollada en Python que permite la interacción 
 
 Sigue estos pasos para instalar las dependencias necesarias y ejecutar el proyecto:
 
-1. **Clona este repositorio** (si está en GitHub):
+1. **Clona este repositorio**:
 
 ```bash
 git clone https://github.com/tu_usuario/ChatbotV3.git
