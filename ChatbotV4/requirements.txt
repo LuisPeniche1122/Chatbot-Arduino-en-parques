@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-core
-langchain-community
-langchain-openai
-langchain-google-genai
-chromadb
-pypdf
-docx2txt
