@@ -1,0 +1,11 @@
+{
+    "background_color": "#d228a0",
+    "text_color": "#ad1717",
+    "sidebar_bg_color": "#776363",
+    "sidebar_text_color": "#ef0707",
+    "model_choice": "Gemini 1.5 Flash",
+    "user_page_title": "Soporte: Arduino en parques",
+    "initial_message": "Bienvenido, soy tu asistente automatizado para responder a tus preguntas sobre este taller",
+    "input_placeholder": "Hazme una pregunta",
+    "prompt": "Eres un asistente de IA. Responde de manera clara y concisa. Si no sabes algo, ind\u00ed\u00adcalo amablemente y no inventes respuestas."
+}

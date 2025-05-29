@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": 1748544109.4110217,
+        "usuario": "cual es la direccion del taller?",
+        "bot": "Lo siento, pero la dirección del taller no se proporciona en los documentos.  La información disponible menciona que el taller se lleva a cabo en parques, y que la ubicación específica se publica en la página de Facebook \"arduino en parques\".\n"
+    },
+    {
+        "timestamp": 1748544132.1413834,
+        "usuario": "tienes el link?",
+        "bot": "No hay ningún enlace en los documentos proporcionados.  Los documentos contienen preguntas frecuentes y respuestas relacionadas con un taller de Arduino y un programa de servicio social.\n"
+    }
+]
